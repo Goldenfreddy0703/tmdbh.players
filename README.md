@@ -5,7 +5,7 @@ Players for TheMovieDb-Helper that support ACTIVE Kodi 19/20/21 Add-ons (updated
 If any are broken, or not listed please let me know. I will look at it and let you know what I can or can't do. 
 I can usually create a player for add-ons built as forks of either Exodus, Shadow, Fen or Venom as it's simply a matter of copying existing code. To create a player from scratch I would need the help of a true coder.
 
-Enter this URL into TheMovieDb-Helper settings for players: https://github.com/Goldenfreddy0703/tmdbh.players/raw/master/tmdbh-players.zip
+Enter this URL into TheMovieDb-Helper settings for players: https://bit.ly/kplayers
 
 You can also manually download single players, or the full zip file, and then copy players into the /players folder under your Kodi's /userdata/addon_data/plugin.video.themoviedb.helper 
 
